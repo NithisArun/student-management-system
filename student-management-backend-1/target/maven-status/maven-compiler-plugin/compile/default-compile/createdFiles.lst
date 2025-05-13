@@ -1,0 +1,10 @@
+com\example\student_management_backend\StudentManagementBackend1Application.class
+com\example\student_management_backend\model\Enrollment.class
+com\example\student_management_backend\repositories\EnrollmentRepository.class
+com\example\student_management_backend\repositories\CourseRepository.class
+com\example\student_management_backend\repositories\StudentRepository.class
+com\example\student_management_backend\controller\EnrollmentController.class
+com\example\student_management_backend\controller\StudentController.class
+com\example\student_management_backend\model\Course.class
+com\example\student_management_backend\model\Student.class
+com\example\student_management_backend\controller\CourseController.class
